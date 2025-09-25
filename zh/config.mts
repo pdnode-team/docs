@@ -2,23 +2,20 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Pdnode Docs",
-  sitemap: {
-    hostname: "https://docs.pdnode.com",
-  },
+  title: "Pdnode 文档",
   description: "A Pdnode Site for Docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
+      { text: "主页", link: "/" },
     ],
 
     sidebar: [
       {
-        text: "Start",
+        text: "开始",
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Internationalization", link: "/internationalization" },
+          { text: "序言", link: "/zh/introduction" },
+          { text: "国际化", link: "/zh/internationalization" },
         ],
       },
     ],

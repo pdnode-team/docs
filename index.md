@@ -4,22 +4,18 @@ layout: home
 
 hero:
   name: "Pdnode Docs"
-  text: "A Pdnode Site for Docs"
-  tagline: My great project tagline
+  text: "Docs"
+  tagline: Document collection place for Pdnode products
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: Start Now
+      link: /introduction
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Open Source
+    details: Almost all pdnode products except commercial products are open source.
+  - title: Modern
+    details: All Pdnode products are built using fresh/modern technology.
+  - title: Customer Service
+    details: Pdnode customer service will handle any reasonable questions you have within 24 hours
 ---
 
