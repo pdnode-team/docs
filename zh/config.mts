@@ -18,6 +18,16 @@ export default defineConfig({
           { text: "国际化", link: "/zh/internationalization" },
         ],
       },
+      {
+        text: "产品",
+        items: [
+          {
+            text: "ChatRoom",
+            link: "/zh/chatroom",
+            items: [{ text: "注册", link: "/zh/chatroom/register" }],
+          },
+        ],
+      },
     ],
 
     socialLinks: [
