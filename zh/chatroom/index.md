@@ -19,6 +19,3 @@ ChatRooM Enterprise处于非常基础的阶段，短期内没有对外使用的�
 
 你可以联系 bret@pdnode.com 来获取内部资格。
 :::
-
-## 更多信息
-[注册](./register.md)

@@ -24,7 +24,11 @@ export default defineConfig({
           {
             text: "ChatRoom",
             link: "/zh/chatroom",
-            items: [{ text: "注册", link: "/zh/chatroom/register" }],
+            collapsed: true,
+            items: [
+              { text: "简介", link: "/zh/chatroom/" },
+              { text: "注册", link: "/zh/chatroom/register" }, // 子
+            ],
           },
         ],
       },
