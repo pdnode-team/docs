@@ -11,6 +11,8 @@ temp/
 .vitepress/dist/
 .vitepress/cache/*
 .vitepress/cache/deps/*
+.vitepress/cache/deps/_metadata.json
+
 
 
 # 本地编辑器配置
