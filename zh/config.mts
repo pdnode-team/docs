@@ -7,7 +7,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "主页", link: "/" },
+      { text: "主页", link: "/zh" },
+      { text: "文档", link: "/zh/introduction" },
+      { text: "成员", link: "/team" },
     ],
 
     sidebar: [
@@ -29,6 +31,7 @@ export default defineConfig({
               { text: "简介", link: "/zh/chatroom/" },
               { text: "注册", link: "/zh/chatroom/register" },
               { text: "登录", link: "/zh/chatroom/login" },
+              { text: "为什么选择Supabase", link: "/zh/chatroom/whysupabase" },
             ],
           },
         ],

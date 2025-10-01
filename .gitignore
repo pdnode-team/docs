@@ -10,8 +10,6 @@ temp/
 .cache/
 .vitepress/dist/
 .vitepress/cache/*
-.vitepress/cache/deps/*
-.vitepress/cache/deps/_metadata.json
 
 
 
