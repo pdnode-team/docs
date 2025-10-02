@@ -4,6 +4,8 @@
     "vitepress": "2.0.0-alpha.12"
   },
   "scripts": {
+    "test": "node --test tests/package.validation.test.js",
+    "test:package": "node --test tests/package.validation.test.js",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
