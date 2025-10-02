@@ -15,7 +15,7 @@
 const { data: { user } } = await supabase.auth.getUser()
 const { error } = await supabase
   .from('countries')
-  .insert({ name: "<NAME>", owner: data.user.id  })
+  .insert({ name: "<NAME>", owner: user.id  })
 ```
 
 ::: warning
