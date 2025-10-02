@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Pdnode Docs
+Welcome to PdNode Docs
 
 ::: danger Only some language were supported
 **We currently only offer documents in Chinese.** We apologize for any inconvenience this may have caused for you.
