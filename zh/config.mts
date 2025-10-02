@@ -21,6 +21,12 @@ export default defineConfig({
         ],
       },
       {
+        text: "平台",
+        items: [
+          { text: "贡献/提交bug", link: "/zh/platform/contribute.md" },
+        ],
+      },
+      {
         text: "产品",
         items: [
           {
