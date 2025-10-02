@@ -27,5 +27,11 @@ const { error } = await supabase
 
 [插入数据](https://supabase.com/docs/reference/javascript/insert)
 
-
+[错误处理 - Auth](https://supabase.com/docs/guides/auth/debugging/error-codes)
 :::
+
+## 更改工作区
+暂无文档
+
+## 删除工作区
+**你目前无法自主删除工作区，需要联系客服。**
