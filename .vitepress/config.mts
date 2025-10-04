@@ -24,10 +24,17 @@ export default defineConfig({
         ],
       },
       {
+        text: "Platform",
+        items: [
+          { text: "Contribute/Submit an issue", link: "/platform/contribute.md" },
+        ],
+      },
+      {
         text: "Products",
         //link: "/chatroom",
-        collapsed: true,
         items: [
+          text: "ChatRoom",
+          collapsed: true,
           { text: "Introduction", link: "/chatroom/" },
           { text: "Register", link: "/chatroom/register" },
           { text: "Login", link: "/chatroom/login" },
