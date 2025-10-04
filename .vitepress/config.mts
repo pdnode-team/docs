@@ -26,7 +26,10 @@ export default defineConfig({
       {
         text: "Platform",
         items: [
-          { text: "Contribute/Submit an issue", link: "/platform/contribute.md" },
+          {
+            text: "Contribute/Submit an issue",
+            link: "/platform/contribute.md",
+          },
         ],
       },
       {
@@ -44,11 +47,13 @@ export default defineConfig({
             ],
           },
         ],
-
+      },
+    ],
     socialLinks: [
       { icon: "github", link: "https://github.com/pdnode-team/docs" },
     ],
   },
+
   locales: {
     root: {
       label: "English",
