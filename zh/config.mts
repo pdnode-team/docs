@@ -35,6 +35,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "简介", link: "/zh/chatroom/" },
+              { text: "价格", link: "/zh/chatroom/prices" },
               { text: "注册", link: "/zh/chatroom/register" },
               { text: "登录", link: "/zh/chatroom/login" },
               { text: "工作区", link: "/zh/chatroom/workspace" },
