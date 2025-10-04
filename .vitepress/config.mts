@@ -31,18 +31,19 @@ export default defineConfig({
       },
       {
         text: "Products",
-        //link: "/chatroom",
         items: [
-          text: "ChatRoom",
-          collapsed: true,
-          { text: "Introduction", link: "/chatroom/" },
-          { text: "Register", link: "/chatroom/register" },
-          { text: "Login", link: "/chatroom/login" },
-          { text: "Workspace", link: "/chatroom/workspace" },
-          { text: "Why Supabase", link: "/chatroom/whysupabase" },
+          {
+            text: "ChatRoom",
+            collapsed: true,
+            items: [
+              { text: "Introduction", link: "/chatroom/" },
+              { text: "Register", link: "/chatroom/register" },
+              { text: "Login", link: "/chatroom/login" },
+              { text: "Workspace", link: "/chatroom/workspace" },
+              { text: "Why Supabase", link: "/chatroom/whysupabase" },
+            ],
+          },
         ],
-      },
-    ],
 
     socialLinks: [
       { icon: "github", link: "https://github.com/pdnode-team/docs" },
