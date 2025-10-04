@@ -14,10 +14,10 @@ You must guide user to check their email so that they could verify their email a
 ```ts
 async function signUpNewUser() {
   const { data, error } = await supabase.auth.signUp({
-    email: '<email>', // 邮箱
-    password: '<password>', // 密码
+    email: '<email>', // Email address
+    password: '<password>', // Password
     options: {
-      emailRedirectTo: 'https://localhost:5173/welcome', // 邮箱重定向的地方 | 可选。
+      emailRedirectTo: 'https://localhost:5173/welcome', // Redirect link (optional).
     },
   })
 }
