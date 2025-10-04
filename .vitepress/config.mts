@@ -23,6 +23,18 @@ export default defineConfig({
           { text: "Internationalization", link: "/internationalization" },
         ],
       },
+      {
+        text: "Products",
+        //link: "/chatroom",
+        collapsed: true,
+        items: [
+          { text: "Introduction", link: "/chatroom/" },
+          { text: "Register", link: "/chatroom/register" },
+          { text: "Login", link: "/chatroom/login" },
+          { text: "Workspace", link: "/chatroom/workspace" },
+          { text: "Why Supabase", link: "/chatroom/whysupabase" },
+        ],
+      },
     ],
 
     socialLinks: [
