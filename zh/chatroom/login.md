@@ -1,13 +1,19 @@
 # 登录
-::: tip
-更多信息请查看此[文档](https://supabase.com/docs/guides/auth/passwords?queryGroups=language&language=js&queryGroups=flow&flow=implicit#signing-in-with-an-email-and-password)
-:::
-
 ```ts
-async function signInWithEmail() {
-  const { data, error } = await supabase.auth.signInWithPassword({
-    email: '<email>',
-    password: '<password>',
-  })
-}
+import PocketBase from 'pocketbase';
+
+const pb = new PocketBase('https://chatapi.pdnode.com');
+
+const authData = await pb.collection('users').authWithPassword(
+    'YOUR_USERNAME_OR_EMAIL',
+    'YOUR_PASSWORD',
+);
+
+// after the above you can also access the auth data from the authStore
+console.log(pb.authStore.isValid);
+console.log(pb.authStore.token);
+console.log(pb.authStore.record.id);
+
+// "logout" the last authenticated record
+pb.authStore.clear();
 ```
