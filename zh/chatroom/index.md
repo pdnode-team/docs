@@ -27,7 +27,7 @@ ChatRooM 使用 [Pocketbase](https://pocketbase.io/)。[为什么选择Pocketbas
 ## ChatRooM Enterprise 介绍
 ChatRooM Enterprise**是什么**
 
-一个针对中小型团队的开源的团队即时聊天。
+一个针对中小型团队的开源团队即时聊天工具。
 
 
 **不是什么**：大型团队聊天（500人+），多个团队等复杂场景。
