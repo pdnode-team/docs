@@ -39,7 +39,10 @@ export default defineConfig({
               { text: "注册", link: "/zh/chatroom/register" },
               { text: "登录", link: "/zh/chatroom/login" },
               { text: "工作区", link: "/zh/chatroom/workspace" },
-              { text: "为什么选择Supabase", link: "/zh/chatroom/whysupabase" },
+              {
+                text: "为什么选择Pocketbase",
+                link: "/zh/chatroom/whypocketbase",
+              },
             ],
           },
         ],
