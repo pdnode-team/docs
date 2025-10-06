@@ -15,7 +15,7 @@ The opensource version of ChatRooM(maintained by Mark) updates very slowly, so t
 ::: warning Warning
 ChatRooM Enterprise is on a very early developing stage, so we won't consider open it for public in a short time.
 
-ChatRooM uses [Supabase](https://supabase.com). [Why Supabase?](/zh/chatroom/whysupabase.md)
+ChatRooM uses [DATA LOST]. [DATA LOST]
 
 This docs is only written for Pdnode developers.
 
