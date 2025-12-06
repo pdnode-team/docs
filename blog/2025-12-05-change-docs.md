@@ -12,6 +12,9 @@ We've decided to switch from Vitepress to Docusaurus primarily because Vitepress
 
 The Pdnode Wiki will continue, and we will move some documentation there.
 
+<!-- truncate -->
+
+
 The original Pdnode Docs will cease to exist and be overwritten by the new documentation.
 
 We will gradually add documentation to the new Pdnode Docs.
@@ -19,5 +22,3 @@ We will gradually add documentation to the new Pdnode Docs.
 Pdnode Blogs will primarily be published on Docusaurus.
 
 The address is: https://docs.pdnode.com/blog
-
-<!-- truncate -->

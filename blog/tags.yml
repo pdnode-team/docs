@@ -6,3 +6,7 @@ change:
   label: Change(Something)
   permalink: /change
   description: "Change tag"
+weekly-update:
+  label: Weekly Update
+  permalink: weekly-update
+  description: Weekly Update
