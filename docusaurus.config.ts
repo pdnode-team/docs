@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/pdnode-team/docs',
+            'https://github.com/pdnode-team/docs/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl:'',
+          editUrl:'https://github.com/pdnode-team/docs/tree/main/blog',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
