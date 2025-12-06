@@ -1,0 +1,18 @@
+bret:
+  name: Bret
+  title: Pdnode Team Founder
+  url: https://github.com/bretren
+  image_url: https://github.com/bretren.png
+  page: true
+  socials:
+    x: bretren
+    github: bretren
+
+mark:
+  name: Mark
+  title: Pdnode Team Co-Founder
+  url: https://github.com/xxdmkbmark
+  image_url: https://github.com/xxdmkbmark.png
+  page: true
+  socials:
+    github: xxdmkbmark

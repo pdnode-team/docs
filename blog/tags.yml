@@ -1,0 +1,8 @@
+github:
+  label: Github
+  permalink: /github
+  description: Github tag description
+change:
+  label: Change(Something)
+  permalink: /change
+  description: "Change tag"
