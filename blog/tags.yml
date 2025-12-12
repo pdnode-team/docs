@@ -10,3 +10,7 @@ weekly-update:
   label: Weekly Update
   permalink: weekly-update
   description: Weekly Update
+weekly-plan:
+  label: Weekly Plan
+  permalink: weekly-plan
+  description: Weekly Plan
