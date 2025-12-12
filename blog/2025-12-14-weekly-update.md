@@ -13,4 +13,9 @@ Welcome to the second weekly update of December! Let's see what's new!
 
 <!-- truncate -->
 
-...
+## Blog
+There were two blog updates this week.
+
+## Docs
+
+## Pdnode Account
