@@ -11,6 +11,11 @@ draft: false
 I've been resting most of the week, so progress may be slow.
 <!-- truncate -->
 
+
+:::tip
+Not all updates will be here; some updates may be unplanned.
+:::
+
 ## 12/8 Monday
 Rest - do nothing
 
