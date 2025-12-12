@@ -35,6 +35,10 @@ Writing documentation for Pdnode Docs - Not many.
 ## 12/12 Friday
 Friday is for having fun!
 
+- Add an icon to Pdnode.com
+- Add a documentation link to Pdnode.com
+- Add a privacy policy and terms of service to Pdnode.com
+
 ## 12/13 Saturday
 No time - Rest
 
