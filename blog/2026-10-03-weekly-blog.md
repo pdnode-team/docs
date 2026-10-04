@@ -26,5 +26,15 @@ In maintenance mode; rarely used. Please use "New Chat." It will eventually reac
 I’ve deployed Flarum, but I don’t know what to use it for.
 f.pdnode.com
 
+### Weeks?
+I wanted to restart this blog but didn't want to write out the weekly dates like I did last time, so I simply created a website to track which week of the year it is.
+
+:::tip
+This website use AI
+:::
+https://weeks.pdnode.com/
+
+![Example Image](./images/week40.png)
+
 ### More?
 I really don't know what to write; I hope some people can give me some suggestions.
