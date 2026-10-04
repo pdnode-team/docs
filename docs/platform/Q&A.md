@@ -32,3 +32,23 @@ It's hard to say; it's mostly me. Others usually just do some small things.
 ## Q: Does Pdnode have a trademark?
 No, I plan to register, but the name Pdnode is difficult to register. I plan to change the name but don't know which one to choose. We'll exist as Pdnode for now until we become famous.
 
+## Q: Can I help contribute code?
+Sure! You are welcome to do that!
+Please email bret@pdnode.com the accurate answers and methods
+
+## Q: Where I can get help?
+### Real-time Chat
+[Pdnode New Chat (Fluxer)](https://newchat.pdnode.com/)
+
+Then Join our guild by using https://newchat.pdnode.com/invite/pdnode
+
+### Email
+:::warning
+I might reply using a different email address
+:::
+bret@pdnode.com
+
+> I will reply in 72 hours
+
+### Project
+The approach depends on the specific project; if there is a GitHub repository, please use GitHub Issues. If you do not receive a reply within 72 hours, [please email me](#email).

@@ -10,3 +10,4 @@ This section contains content related to the Pdnode platform.
 - [Terms of Service](./terms.md)
 - [Privacy Policy](./privacy.md)
 - [Pdnode Development Specification](./specification.md)
+- [Q&A](./Q&A.md)
